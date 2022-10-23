@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+}
+main{
+    padding: 0 20%;
+}
+
+
+header{
+    background-color: brown;
+    color: #fff;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    align-items: center;
+}
+
+h2{
+    background-color: brown;
+    color: #fff;
+    padding-left: 20px;
+}
+ div{
+    border: brown 2px solid;
+    border-radius: 5px;
+    margin: 20px 0;
+    padding: 20px;
+ }
+
+
+ footer{
+    background-color: brown;
+    color: #fff;
+    text-align: center;
+    height: 100px;
+    padding-top: 50px;
+ }
